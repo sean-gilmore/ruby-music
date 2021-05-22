@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bindata (2.4.10)
+    muse (0.0.12)
+      bindata
+      parallel
+    parallel (1.20.1)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  muse
+
+BUNDLED WITH
+   2.2.17
